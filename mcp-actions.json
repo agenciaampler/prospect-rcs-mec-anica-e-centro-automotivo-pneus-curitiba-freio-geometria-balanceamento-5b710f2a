@@ -1,0 +1,41 @@
+{
+    "version": "1.0",
+    "site": "",
+    "business": {
+        "name": "Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balanceamento | Suspensão | Oficina",
+        "type": "AutoRepair",
+        "address": "R. Brig. Franco, 4208 - Rebouças, Curitiba - PR, 80220-100",
+        "areaServed": [
+            "Curitiba e regiao metropolitana"
+        ]
+    },
+    "actions": [
+        {
+            "id": "contact-whatsapp",
+            "name": "Falar pelo WhatsApp",
+            "description": "Inicia uma conversa no WhatsApp com a oficina para pedir orientação, orçamento ou agendamento.",
+            "method": "link",
+            "target": "#contato",
+            "parameters": {
+                "optional": [
+                    "vehicle_brand",
+                    "vehicle_model",
+                    "vehicle_year",
+                    "symptom"
+                ]
+            }
+        },
+        {
+            "id": "open-route",
+            "name": "Abrir rota no mapa",
+            "description": "Abre a localização da oficina no Google Maps para conferir endereço e rota.",
+            "method": "link",
+            "target": "https://maps.google.com/?cid=14232428696298749390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+            "parameters": {
+                "optional": [
+                    "origin"
+                ]
+            }
+        }
+    ]
+}
