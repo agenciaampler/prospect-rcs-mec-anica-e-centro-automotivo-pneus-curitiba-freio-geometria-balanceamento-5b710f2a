@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Diagnóstico e manutenção",
+    "hero_line": "Atendimento automotivo em Rebouças, com contato direto e informações claras antes do orçamento.",
+    "services_headline": "Serviços claros para decidir rápido.",
+    "services_intro": "A página da Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balanceamento | Suspensão | Oficina mostra serviços, localização e…",
+    "split_headline": "A conversa começa com o essencial.",
+    "confidence_headline": "Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balancea…",
+    "location_headline": "Rota para a Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometri…",
+    "steps_headline": "Diagnosticar. Orientar. Agendar.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Falhas e dúvidas avaliadas com orientação clara antes do serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Itens essenciais para dirigir com segurança em Curitiba e RMC.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Manutenção planejada para evitar parada inesperada.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balanceamento | Suspensão | Oficina recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para carros populares e multimarcas",
+            "body": "Marcas como Fiat, Chevrolet, Volkswagen, Renault, Hyundai aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Rebouças a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balanceamento | Suspensão | Oficina pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca Fiat, Chevrolet, Volkswagen, Renault, Hyundai. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "R. Brig. Franco, 4208 - Rebouças, Curitiba - PR, 80220-100"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Rcs Mecânica e Centro Automotivo| Pneus Curitiba | Freio | Geometria | Balanceamento | Suspensão | Oficina.",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T07:43:17-03:00"
+}
